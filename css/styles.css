@@ -1,0 +1,16 @@
+.container {
+  padding: 2em;
+}
+
+.destination-blah {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.destination-blah:hover {
+  text-decoration: underline;
+}
+
+#show-places {
+  display: none;
+}

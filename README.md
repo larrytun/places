@@ -30,6 +30,28 @@ _{Let people know what to do if they run into any issues or have questions, idea
 
 _{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
 
+## Specifications
+
+*_Enter destination and that destination is then displayed to the user_
+**_Example Input: Washington_
+**_Example Output: Washington_
+
+*_Enter a destination with a location and the location is then displayed with the destination_
+**_Example Input: Seattle_
+**_Example Output: Washington, Seattle_
+
+*_Enter a destination with landmarks and the landmarks are then displayed with the destination_
+**_Example Input: Space Needle_
+**_Example Output: Washington, Seattle, Space Needle_
+
+*_Enter a destination with the time of year, notes, ect and that is displayed with previously entered information_
+**_Example Input: Summer, "I had fun", ect._
+**_Example Output: Washington, Seattle, Space Needle, Summer, "I had fun", ect._
+
+*_When a destination is clicked properties of that destination are displayed to the user_
+**_Example Input: Summer, "I had fun", ect._
+**_Example Output: Washington, Seattle, Space Needle, Summer, "I had fun", ect._
+
 ### License
 
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
